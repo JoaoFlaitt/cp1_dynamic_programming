@@ -1,5 +1,7 @@
 # cp1_dynamic_programming
 
+RM 553888
+
 Relatório de Análise
 1. Vetor em ordem crescente:
 Insertion Sort: 0 trocas
